@@ -50,7 +50,7 @@ python3 chou_fasman_predictor.py > output.txt
 
 ---
 
-## 📑 Example Output (Excerpt)
+## Example Output (Excerpt)
 
 ```
 HELICAL REGIONS (H):
