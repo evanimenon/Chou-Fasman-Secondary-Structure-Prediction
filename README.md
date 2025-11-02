@@ -1,10 +1,10 @@
 # Chou-Fasman Secondary Structure Prediction
 
-This project implements the **Chou–Fasman algorithm** to predict secondary structure elements (α-helices and β-strands) from an input amino acid sequence. The algorithm performs nucleation, directional extension, and conflict resolution to generate a final H/S/coil assignment for every residue.
+This project implements the **Chou–Fasman algorithm** to predict secondary structure elements (alpha-helices and beta-strands) from an input amino acid sequence. The algorithm performs nucleation, directional extension, and conflict resolution to generate a final H/S/coil assignment for every residue.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Predicts:
   - **Helical regions (H)**
@@ -21,7 +21,7 @@ This project implements the **Chou–Fasman algorithm** to predict secondary str
 
 ---
 
-## 🧠 Algorithm Summary
+## Algorithm Summary
 
 | Step | Description |
 |------|-------------|
@@ -33,7 +33,7 @@ This project implements the **Chou–Fasman algorithm** to predict secondary str
 
 ---
 
-## ▶️ Running the Program
+## Running the Program
 
 Run directly with Python:
 
@@ -65,7 +65,7 @@ STRAND REGIONS (S):
 
 ---
 
-## 📝 License
+## License
 
 Released under the **MIT License**
 Free for academic, personal, and commercial use.
